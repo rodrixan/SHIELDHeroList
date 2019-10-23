@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SHIELD Heroes</string>
+
+    <string name="hero_detail_data_hint">Personal Data</string>
+    <string name="hero_detail_realname_placeholder">Real name</string>
+    <string name="hero_detail_height_placeholder">Height</string>
+    <string name="hero_detail_power_placeholder">Powers</string>
+    <string name="hero_detail_abilities_placeholder">Abilities</string>
+    <string name="hero_detail_groups_placeholder">Groups</string>
+
+    <string name="action_search_query">Search Hero...</string>
+</resources>
